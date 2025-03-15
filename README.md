@@ -13,11 +13,11 @@ Installation and Setup ⚙️ Clone the repository:
 Setup the database: ->Import the quickbites.sql file (provided in the repository) into MySQL. Configure the project: ->Update database credentials in the dbConfig.java file. Run the application: ->Deploy the project on a server like Apache Tomcat. ->Access the application in your browser.
 
 Screenshots 🌟
-![Screenshot 2025-03-10 232734](https://github.com/user-attachments/assets/347b9efe-d2c7-4f24-aebc-469b555a9409)
-![Screenshot 2025-03-10 232913](https://github.com/user-attachments/assets/a1d0c1cd-bafc-4fb6-b34c-701b16b8af5a)
-![Screenshot 2025-03-10 233617](https://github.com/user-attachments/assets/23215846-8272-41cb-a1b1-cf63459c8bb7)
-![Screenshot 2025-03-10 233049](https://github.com/user-attachments/assets/9e69f283-b5cd-4b84-8bcf-96b5aa158694)
-![Screenshot 2025-03-10 233154](https://github.com/user-attachments/assets/985043fb-c604-43b2-bbad-a104440e4feb)
+![Screenshot 2025-03-10 232734](https://github.com/user-attachments/assets/9b7d13d4-95eb-4c31-8938-56415b12104b)
+![Screenshot 2025-03-10 232913](https://github.com/user-attachments/assets/ceaf8992-b595-4baa-bfd9-395a97f5f00b)
+![Screenshot 2025-03-10 233617](https://github.com/user-attachments/assets/1c120017-87aa-4bd5-9b3e-3987a07f6081)
+![Screenshot 2025-03-10 233049](https://github.com/user-attachments/assets/17fd9c2e-6e7b-419d-a538-d988d8460c48)
+![Screenshot 2025-03-10 233154]()
 
 
 Contact 📬 If you have any questions or feedback, feel free to reach out: Mayank Yadav Email: mayankyadav1602@gmail.com  GitHub: https://github.com/Mayank086 Linkedin: https://www.linkedin.com/in/mayankyadav2002/!
